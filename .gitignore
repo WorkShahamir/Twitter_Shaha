@@ -1,5 +1,7 @@
 venv/
 .idea/
+
+static/
 media/
 
 **/__pycache__/**
